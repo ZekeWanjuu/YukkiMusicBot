@@ -15,12 +15,12 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "24718470",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "d3465cfc1326fad2d7ff0f38bb4fb2b6",
         "required": true
       },
       "AUTO_LEAVING_ASSISTANT": {
@@ -30,42 +30,42 @@
       },
       "BOT_TOKEN": {
         "description": "A Bot's token from Botfather",
-        "value": "",
+        "value": "7113301141:AAGqNJ-57B993c6FHisdH7Sf_rNp2zy8Sug",
         "required": true
       },
       "MONGO_DB_URI": {
         "description": "Get a mongodb url from https://cloud.mongodb.com . You can leave it blank if you want , bot will use Yukki's database for you.",
-        "value": "",
+        "value": "mongodb+srv://<zekewanjuu>:<OlvVMiWZ5J2RZKMw>@telegrambot.dlgkaez.mongodb.net/?retryWrites=true&w=majority&appName=TelegramBot",
         "required": true
       },
       "MUSIC_BOT_NAME": {
         "description": "A name for your Music Bot. Please don't use ascii characters",
-        "value": "",
+        "value": "ZEKE WANJUU MUSIC PLAYER",
         "required": true
       },
       "OWNER_ID": {
         "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
-        "value": "",
+        "value": "707824520",
         "required": true
       },
       "STRING_SESSION": {
         "description": "A Pyrogram String Session. One Assistant is Compulsory.",
-        "value": "",
+        "value": "BAEksaEALiIMWcj5ULzHQbxBpojBaMumfTc4Yec6EfgfnW5CITC7kZRuJPcGWAlRRgyoY3KA4ZolEYS9FtaQwKI8jpxJebJp-q6dGGBY7Bz_UBx2KqYxbahrzrLX3qVEnUkfUm48jjlQCeX2yY5KwMilSJIMV6q0LDopKvETlvwC8D6GHY77Gisz3qjX-UV-QJUpt4vqrMJ7V6A6N2UAei4Qfq8Y2_VAUg17EFLkMDEdNSbWRmGV8Frjn_TffbIMlyXKppo4MttpF4s-1iwPZsT3caRn3ZVKlKGgCxx38dqGxIGlHChkm83sWOW52QQmIzFuu9DJZFy99fJ_l1EnXvLDVxSkEAAAAAAqMIuIAA",
         "required": true
       },
       "HEROKU_API_KEY": {
         "description": "Your Heroku account's API key",
-        "value": "",
+        "value": "HRKU-8855e62a-8e91-46bf-b77e-d49c6beb9325",
         "required": false
       },
       "HEROKU_APP_NAME": {
         "description": "Your heroku app/bot's name",
-        "value": "",
+        "value": "zeketgmusicbot",
         "required": false
       },
       "LOG_GROUP_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Use only Group. Please don't use Channel ID.",
-        "value": "",
+        "value": "1914038003",
         "required": true
       },
       "UPSTREAM_REPO": {
